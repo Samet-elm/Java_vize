@@ -8,12 +8,12 @@ public class ePostaGonder {
 
         // Giriş bilgilerini ayarlayın
         String host = "smtp.gmail.com";
-        String gonderen = "srelmali.samet415@gmail.com";
-        String HesapSifresi = "xzzawoygjjbwybwo";
+        String gonderen = "gonderen@gmail.com";
+        String HesapSifresi = "15Haneliuygulamaşifresi";
 
 
         // Gönderen ve konu bilgilerini ayarlayın
-        String fromAddress = "srelmali.samet415@gmail.com";
+        String fromAddress = "gonderen@gmail.com";
         String konu = "Mail gönderme kodu deneme";
 
         // Mail Ayarlarını yapılandırma
